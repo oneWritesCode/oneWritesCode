@@ -1,6 +1,8 @@
 name: ReadMe Stats Updater
 
 on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
   workflow_run:
     workflows: ["Main ReadMe Updater"]
     branches: [master]
