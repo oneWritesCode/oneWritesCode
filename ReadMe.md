@@ -1,10 +1,17 @@
+# About Me:
+hey there, officially my name is deepak but you can call me a dev too
 
-<b>My GitHub Stats</b>
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=onewritescode&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=onewritescode&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=onewritescode&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="http://www.github.com/oneWritesCode"><img src="https://github-readme-stats.vercel.app/api?username=oneWritesCode&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="oneWritesCode's GitHub stats" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=onewritescode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<a href="http://www.github.com/oneWritesCode"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oneWritesCode&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=onewritescode&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<a href="https://github.com/deepaksingh126" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneWritesCode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=86400" alt="Top Languages" />
-</a>
+---
+[![](https://visitcount.itsvg.in/api?id=onewritescode&icon=0&color=0)](https://visitcount.itsvg.in)
+
