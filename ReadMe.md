@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=onewritescode&label=Profile%20views&color=0e75b6&style=flat" alt="onewritescode" />
+</p>
+
 # About Me:
 hey there, officially my name is deepak but you can call me a dev too
 
