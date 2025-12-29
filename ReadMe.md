@@ -3,7 +3,9 @@
 </p>
 
 # About Me:
-hey there, officially my name is deepak but you can call me a dev too
+hey there, officially my name is deepak but you can call me a dev too <br/>
+if there is anything you want to know about me you can check my website d33pak.space <br/>
+i post my work on there and i hope you loved it <br/>
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=onewritescode&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -12,9 +14,6 @@ hey there, officially my name is deepak but you can call me a dev too
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=onewritescode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=onewritescode&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=onewritescode&icon=0&color=0)](https://visitcount.itsvg.in)
