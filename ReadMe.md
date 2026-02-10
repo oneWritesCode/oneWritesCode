@@ -3,9 +3,15 @@
 </p>
 
 # About Me:
-hey there, officially my name is deepak but you can call me a dev too <br/>
-if there is anything you want to know about me you can check my website d33pak.space <br/>
-i post my work on there and i hope you loved it <br/>
+## 👋 Hi, I'm Deepak (aka *a dev*)
+
+My official name is **Deepak**, but you can call me **a dev**.
+
+**Portfolio:** [d33pak.space](https://d33pak.space)  
+I showcase my projects, experiments, and ideas there.
+
+I regularly post my work and progress, and I hope you find something useful or interesting.
+
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=onewritescode&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
